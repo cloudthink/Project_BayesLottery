@@ -1,5 +1,4 @@
-# project_cme
-
+# project_bayes_lottery
 
 帮一个外国小伙伴写的一个计算球队胜率的项目
 
